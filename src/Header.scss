@@ -1,0 +1,9 @@
+.header{
+    display: flex;
+    justify-content: space-around;
+    background-color: green;
+
+    &__sitename{
+        font-size: 2rem;
+    }
+}
